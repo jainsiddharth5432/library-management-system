@@ -1,0 +1,31 @@
+{
+  "name": "library-management-system",
+  "version": "1.0.0",
+  "description": "commiting by siddharth\r    This is a library management API Backend for the management of users and the books.",
+  "homepage": "https://github.com/jainsiddharth5432/library-management-system#readme",
+  
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "bugs": {
+    "url": "https://github.com/jainsiddharth5432/library-management-system/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jainsiddharth5432/library-management-system.git"
+  },
+  "license": "ISC",
+  "author": "siddharth jain",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
